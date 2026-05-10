@@ -15,8 +15,14 @@ from pathlib import Path
 from layers import *
 
 # ── Layer 1 + Layer 2 ─────────────────────────────────────────
-sys.path.append(str(Path(__file__).resolve().parent.parent / "layer1_bridge"))
-sys.path.append(str(Path(__file__).resolve().parent.parent / "layer2_dynamic"))
+# Resolve absolute paths from this file's location so imports
+# work regardless of the working directory set by the notebook.
+_REPO_ROOT = Path(__file__).resolve().parent.parent
+for _p in [str(_REPO_ROOT / "layer1_bridge"),
+           str(_REPO_ROOT / "layer2_dynamic")]:
+    if _p not in sys.path:
+        sys.path.insert(0, _p)
+
 from neo4j_bridge_v2 import Neo4jBridgeV2
 from dynamic_adjacency_v2 import DynamicAdjacencyV2
 

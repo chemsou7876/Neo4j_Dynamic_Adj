@@ -8,7 +8,7 @@ import logging
 import numpy as np
 
 from dataset_aqi36 import get_dataloader
-from main_model import PriSTI_aqi36
+from PriSTI_modified.main_model_v2 import PriSTI_aqi36
 from utils import train, evaluate
 
 

@@ -13,7 +13,7 @@ from pathlib import Path
 sys.path.append(str(Path(__file__).resolve().parent))
 sys.path.append(str(Path(__file__).resolve().parent.parent / "layer2_dynamic"))
 
-from main_model import PriSTI_aqi36
+from PriSTI_modified.main_model_v2 import PriSTI_aqi36
 
 print("=" * 55)
 print("TEST — PriSTI Modifié avec Dynamic Adjacency")

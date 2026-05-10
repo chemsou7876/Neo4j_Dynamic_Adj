@@ -8,7 +8,7 @@ import os
 import numpy as np
 
 from dataset_pemsbay import get_dataloader
-from main_model import PriSTI_PemsBAY
+from PriSTI_modified.main_model_v2 import PriSTI_PemsBAY
 from utils import train, evaluate
 
 

@@ -1,0 +1,2891 @@
+[
+  {
+    "source": "1001",
+    "target": "1002",
+    "pearson": 0.896399,
+    "weight": 0.896399,
+    "distance_km": 10.016,
+    "gaussian_weight": 0.863308,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1003",
+    "pearson": 0.859127,
+    "weight": 0.859127,
+    "distance_km": 19.621,
+    "gaussian_weight": 0.56885,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1004",
+    "pearson": 0.862432,
+    "weight": 0.862432,
+    "distance_km": 30.641,
+    "gaussian_weight": 0.252669,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1005",
+    "pearson": 0.820452,
+    "weight": 0.820452,
+    "distance_km": 38.818,
+    "gaussian_weight": 0.109925,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1006",
+    "pearson": 0.896565,
+    "weight": 0.896565,
+    "distance_km": 15.037,
+    "gaussian_weight": 0.717962,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1007",
+    "pearson": 0.834599,
+    "weight": 0.834599,
+    "distance_km": 22.563,
+    "gaussian_weight": 0.474291,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1008",
+    "pearson": 0.846024,
+    "weight": 0.846024,
+    "distance_km": 21.307,
+    "gaussian_weight": 0.514155,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1009",
+    "pearson": 0.83057,
+    "weight": 0.83057,
+    "distance_km": 28.095,
+    "gaussian_weight": 0.314553,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1010",
+    "pearson": 0.823444,
+    "weight": 0.823444,
+    "distance_km": 30.359,
+    "gaussian_weight": 0.259111,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1011",
+    "pearson": 0.826608,
+    "weight": 0.826608,
+    "distance_km": 30.907,
+    "gaussian_weight": 0.246681,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1012",
+    "pearson": 0.827838,
+    "weight": 0.827838,
+    "distance_km": 29.829,
+    "gaussian_weight": 0.271517,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1013",
+    "pearson": 0.823361,
+    "weight": 0.823361,
+    "distance_km": 27.414,
+    "gaussian_weight": 0.332466,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1014",
+    "pearson": 0.843416,
+    "weight": 0.843416,
+    "distance_km": 31.308,
+    "gaussian_weight": 0.237807,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1015",
+    "pearson": 0.842625,
+    "weight": 0.842625,
+    "distance_km": 23.462,
+    "gaussian_weight": 0.446376,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1016",
+    "pearson": 0.843169,
+    "weight": 0.843169,
+    "distance_km": 26.817,
+    "gaussian_weight": 0.348624,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1020",
+    "pearson": 0.817306,
+    "weight": 0.817306,
+    "distance_km": 30.204,
+    "gaussian_weight": 0.262708,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1021",
+    "pearson": 0.813493,
+    "weight": 0.813493,
+    "distance_km": 28.473,
+    "gaussian_weight": 0.304845,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1022",
+    "pearson": 0.829254,
+    "weight": 0.829254,
+    "distance_km": 29.74,
+    "gaussian_weight": 0.273633,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1024",
+    "pearson": 0.890549,
+    "weight": 0.890549,
+    "distance_km": 14.843,
+    "gaussian_weight": 0.724108,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1025",
+    "pearson": 0.86772,
+    "weight": 0.86772,
+    "distance_km": 18.031,
+    "gaussian_weight": 0.621025,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1030",
+    "pearson": 0.871215,
+    "weight": 0.871215,
+    "distance_km": 22.731,
+    "gaussian_weight": 0.469023,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1001",
+    "target": "1031",
+    "pearson": 0.743989,
+    "weight": 0.743989,
+    "distance_km": 34.331,
+    "gaussian_weight": 0.177824,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1003",
+    "pearson": 0.925181,
+    "weight": 0.925181,
+    "distance_km": 10.117,
+    "gaussian_weight": 0.860723,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1004",
+    "pearson": 0.909383,
+    "weight": 0.909383,
+    "distance_km": 21.197,
+    "gaussian_weight": 0.517685,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1005",
+    "pearson": 0.825498,
+    "weight": 0.825498,
+    "distance_km": 29.638,
+    "gaussian_weight": 0.276072,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1006",
+    "pearson": 0.927913,
+    "weight": 0.927913,
+    "distance_km": 7.238,
+    "gaussian_weight": 0.926115,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1007",
+    "pearson": 0.896838,
+    "weight": 0.896838,
+    "distance_km": 16.544,
+    "gaussian_weight": 0.66961,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1008",
+    "pearson": 0.90919,
+    "weight": 0.90919,
+    "distance_km": 13.441,
+    "gaussian_weight": 0.767409,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1009",
+    "pearson": 0.878379,
+    "weight": 0.878379,
+    "distance_km": 18.759,
+    "gaussian_weight": 0.597139,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1010",
+    "pearson": 0.867923,
+    "weight": 0.867923,
+    "distance_km": 21.463,
+    "gaussian_weight": 0.509168,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1011",
+    "pearson": 0.86592,
+    "weight": 0.86592,
+    "distance_km": 21.513,
+    "gaussian_weight": 0.507573,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1012",
+    "pearson": 0.86733,
+    "weight": 0.86733,
+    "distance_km": 23.001,
+    "gaussian_weight": 0.460619,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1013",
+    "pearson": 0.878842,
+    "weight": 0.878842,
+    "distance_km": 19.85,
+    "gaussian_weight": 0.561375,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1014",
+    "pearson": 0.858093,
+    "weight": 0.858093,
+    "distance_km": 24.784,
+    "gaussian_weight": 0.406551,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1015",
+    "pearson": 0.907511,
+    "weight": 0.907511,
+    "distance_km": 14.937,
+    "gaussian_weight": 0.721135,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1016",
+    "pearson": 0.881562,
+    "weight": 0.881562,
+    "distance_km": 16.84,
+    "gaussian_weight": 0.660003,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1017",
+    "pearson": 0.783759,
+    "weight": 0.783759,
+    "distance_km": 36.109,
+    "gaussian_weight": 0.148008,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1018",
+    "pearson": 0.802195,
+    "weight": 0.802195,
+    "distance_km": 34.667,
+    "gaussian_weight": 0.171874,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1020",
+    "pearson": 0.868959,
+    "weight": 0.868959,
+    "distance_km": 21.616,
+    "gaussian_weight": 0.504262,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1021",
+    "pearson": 0.864914,
+    "weight": 0.864914,
+    "distance_km": 19.958,
+    "gaussian_weight": 0.557841,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1022",
+    "pearson": 0.874735,
+    "weight": 0.874735,
+    "distance_km": 22.294,
+    "gaussian_weight": 0.482748,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1024",
+    "pearson": 0.891919,
+    "weight": 0.891919,
+    "distance_km": 23.783,
+    "gaussian_weight": 0.436572,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1025",
+    "pearson": 0.91858,
+    "weight": 0.91858,
+    "distance_km": 11.271,
+    "gaussian_weight": 0.830144,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1002",
+    "target": "1030",
+    "pearson": 0.907345,
+    "weight": 0.907345,
+    "distance_km": 32.054,
+    "gaussian_weight": 0.221901,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1004",
+    "pearson": 0.946252,
+    "weight": 0.946252,
+    "distance_km": 11.096,
+    "gaussian_weight": 0.834932,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1005",
+    "pearson": 0.869947,
+    "weight": 0.869947,
+    "distance_km": 19.524,
+    "gaussian_weight": 0.572026,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1006",
+    "pearson": 0.951352,
+    "weight": 0.951352,
+    "distance_km": 11.963,
+    "gaussian_weight": 0.810818,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1007",
+    "pearson": 0.917914,
+    "weight": 0.917914,
+    "distance_km": 19.666,
+    "gaussian_weight": 0.56739,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1008",
+    "pearson": 0.911945,
+    "weight": 0.911945,
+    "distance_km": 14.722,
+    "gaussian_weight": 0.727895,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1009",
+    "pearson": 0.904692,
+    "weight": 0.904692,
+    "distance_km": 14.865,
+    "gaussian_weight": 0.7234,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1010",
+    "pearson": 0.891871,
+    "weight": 0.891871,
+    "distance_km": 18.393,
+    "gaussian_weight": 0.609123,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1011",
+    "pearson": 0.895961,
+    "weight": 0.895961,
+    "distance_km": 16.958,
+    "gaussian_weight": 0.656147,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1012",
+    "pearson": 0.884569,
+    "weight": 0.884569,
+    "distance_km": 23.713,
+    "gaussian_weight": 0.438699,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1013",
+    "pearson": 0.906253,
+    "weight": 0.906253,
+    "distance_km": 19.908,
+    "gaussian_weight": 0.559481,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1014",
+    "pearson": 0.862643,
+    "weight": 0.862643,
+    "distance_km": 25.692,
+    "gaussian_weight": 0.380146,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1015",
+    "pearson": 0.931378,
+    "weight": 0.931378,
+    "distance_km": 14.32,
+    "gaussian_weight": 0.74048,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1016",
+    "pearson": 0.920963,
+    "weight": 0.920963,
+    "distance_km": 9.877,
+    "gaussian_weight": 0.866793,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1017",
+    "pearson": 0.814784,
+    "weight": 0.814784,
+    "distance_km": 28.905,
+    "gaussian_weight": 0.29398,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1018",
+    "pearson": 0.828298,
+    "weight": 0.828298,
+    "distance_km": 30.556,
+    "gaussian_weight": 0.254588,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1020",
+    "pearson": 0.904627,
+    "weight": 0.904627,
+    "distance_km": 19.284,
+    "gaussian_weight": 0.579891,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1021",
+    "pearson": 0.886283,
+    "weight": 0.886283,
+    "distance_km": 18.09,
+    "gaussian_weight": 0.619094,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1022",
+    "pearson": 0.893077,
+    "weight": 0.893077,
+    "distance_km": 22.118,
+    "gaussian_weight": 0.488293,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1024",
+    "pearson": 0.88436,
+    "weight": 0.88436,
+    "distance_km": 33.871,
+    "gaussian_weight": 0.186178,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1003",
+    "target": "1025",
+    "pearson": 0.932751,
+    "weight": 0.932751,
+    "distance_km": 7.129,
+    "gaussian_weight": 0.928237,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1005",
+    "pearson": 0.925958,
+    "weight": 0.925958,
+    "distance_km": 8.587,
+    "gaussian_weight": 0.897582,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1006",
+    "pearson": 0.92184,
+    "weight": 0.92184,
+    "distance_km": 21.564,
+    "gaussian_weight": 0.505932,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1007",
+    "pearson": 0.893167,
+    "weight": 0.893167,
+    "distance_km": 26.777,
+    "gaussian_weight": 0.349708,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1008",
+    "pearson": 0.907091,
+    "weight": 0.907091,
+    "distance_km": 21.653,
+    "gaussian_weight": 0.503071,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1009",
+    "pearson": 0.9041,
+    "weight": 0.9041,
+    "distance_km": 16.955,
+    "gaussian_weight": 0.656231,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1010",
+    "pearson": 0.900786,
+    "weight": 0.900786,
+    "distance_km": 20.201,
+    "gaussian_weight": 0.549934,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1011",
+    "pearson": 0.906442,
+    "weight": 0.906442,
+    "distance_km": 17.395,
+    "gaussian_weight": 0.641874,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1012",
+    "pearson": 0.88187,
+    "weight": 0.88187,
+    "distance_km": 28.19,
+    "gaussian_weight": 0.312092,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1013",
+    "pearson": 0.881021,
+    "weight": 0.881021,
+    "distance_km": 24.513,
+    "gaussian_weight": 0.414576,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1014",
+    "pearson": 0.873943,
+    "weight": 0.873943,
+    "distance_km": 30.049,
+    "gaussian_weight": 0.266308,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1015",
+    "pearson": 0.906326,
+    "weight": 0.906326,
+    "distance_km": 19.92,
+    "gaussian_weight": 0.559081,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1016",
+    "pearson": 0.935854,
+    "weight": 0.935854,
+    "distance_km": 10.668,
+    "gaussian_weight": 0.846391,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1017",
+    "pearson": 0.847369,
+    "weight": 0.847369,
+    "distance_km": 22.798,
+    "gaussian_weight": 0.466934,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1018",
+    "pearson": 0.847299,
+    "weight": 0.847299,
+    "distance_km": 28.723,
+    "gaussian_weight": 0.298531,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1020",
+    "pearson": 0.888618,
+    "weight": 0.888618,
+    "distance_km": 21.669,
+    "gaussian_weight": 0.502567,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1021",
+    "pearson": 0.885942,
+    "weight": 0.885942,
+    "distance_km": 21.298,
+    "gaussian_weight": 0.51445,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1022",
+    "pearson": 0.884148,
+    "weight": 0.884148,
+    "distance_km": 26.051,
+    "gaussian_weight": 0.36995,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1025",
+    "pearson": 0.908766,
+    "weight": 0.908766,
+    "distance_km": 14.648,
+    "gaussian_weight": 0.730242,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1035",
+    "pearson": 0.73309,
+    "weight": 0.73309,
+    "distance_km": 34.62,
+    "gaussian_weight": 0.172691,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1004",
+    "target": "1036",
+    "pearson": 0.769883,
+    "weight": 0.769883,
+    "distance_km": 29.966,
+    "gaussian_weight": 0.268258,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1006",
+    "pearson": 0.870166,
+    "weight": 0.870166,
+    "distance_km": 30.107,
+    "gaussian_weight": 0.264969,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1007",
+    "pearson": 0.86597,
+    "weight": 0.86597,
+    "distance_km": 34.721,
+    "gaussian_weight": 0.170932,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1008",
+    "pearson": 0.874324,
+    "weight": 0.874324,
+    "distance_km": 29.705,
+    "gaussian_weight": 0.274451,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1009",
+    "pearson": 0.894376,
+    "weight": 0.894376,
+    "distance_km": 23.811,
+    "gaussian_weight": 0.435732,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1010",
+    "pearson": 0.909034,
+    "weight": 0.909034,
+    "distance_km": 26.563,
+    "gaussian_weight": 0.35561,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1011",
+    "pearson": 0.91888,
+    "weight": 0.91888,
+    "distance_km": 23.462,
+    "gaussian_weight": 0.446393,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1012",
+    "pearson": 0.876649,
+    "weight": 0.876649,
+    "distance_km": 35.151,
+    "gaussian_weight": 0.163579,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1013",
+    "pearson": 0.852749,
+    "weight": 0.852749,
+    "distance_km": 31.704,
+    "gaussian_weight": 0.229275,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1014",
+    "pearson": 0.883918,
+    "weight": 0.883918,
+    "distance_km": 36.879,
+    "gaussian_weight": 0.136301,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1015",
+    "pearson": 0.868839,
+    "weight": 0.868839,
+    "distance_km": 27.698,
+    "gaussian_weight": 0.324936,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1016",
+    "pearson": 0.940958,
+    "weight": 0.940958,
+    "distance_km": 18.151,
+    "gaussian_weight": 0.617098,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1017",
+    "pearson": 0.914378,
+    "weight": 0.914378,
+    "distance_km": 23.26,
+    "gaussian_weight": 0.452585,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1018",
+    "pearson": 0.894465,
+    "weight": 0.894465,
+    "distance_km": 32.165,
+    "gaussian_weight": 0.219595,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1020",
+    "pearson": 0.881186,
+    "weight": 0.881186,
+    "distance_km": 28.149,
+    "gaussian_weight": 0.31315,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1021",
+    "pearson": 0.877425,
+    "weight": 0.877425,
+    "distance_km": 28.158,
+    "gaussian_weight": 0.31293,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1022",
+    "pearson": 0.87767,
+    "weight": 0.87767,
+    "distance_km": 32.89,
+    "gaussian_weight": 0.204931,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1025",
+    "pearson": 0.812333,
+    "weight": 0.812333,
+    "distance_km": 21.749,
+    "gaussian_weight": 0.500005,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1035",
+    "pearson": 0.815984,
+    "weight": 0.815984,
+    "distance_km": 28.473,
+    "gaussian_weight": 0.304847,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1005",
+    "target": "1036",
+    "pearson": 0.860956,
+    "weight": 0.860956,
+    "distance_km": 21.522,
+    "gaussian_weight": 0.50727,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1007",
+    "pearson": 0.947553,
+    "weight": 0.947553,
+    "distance_km": 9.386,
+    "gaussian_weight": 0.878901,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1008",
+    "pearson": 0.939704,
+    "weight": 0.939704,
+    "distance_km": 6.418,
+    "gaussian_weight": 0.941437,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1009",
+    "pearson": 0.924937,
+    "weight": 0.924937,
+    "distance_km": 13.323,
+    "gaussian_weight": 0.770994,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1010",
+    "pearson": 0.912739,
+    "weight": 0.912739,
+    "distance_km": 15.338,
+    "gaussian_weight": 0.708432,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1011",
+    "pearson": 0.90984,
+    "weight": 0.90984,
+    "distance_km": 16.134,
+    "gaussian_weight": 0.682898,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1012",
+    "pearson": 0.917505,
+    "weight": 0.917505,
+    "distance_km": 15.789,
+    "gaussian_weight": 0.694013,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1013",
+    "pearson": 0.930742,
+    "weight": 0.930742,
+    "distance_km": 12.78,
+    "gaussian_weight": 0.787158,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1014",
+    "pearson": 0.904006,
+    "weight": 0.904006,
+    "distance_km": 17.552,
+    "gaussian_weight": 0.636724,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1015",
+    "pearson": 0.960341,
+    "weight": 0.960341,
+    "distance_km": 8.425,
+    "gaussian_weight": 0.901228,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1016",
+    "pearson": 0.923883,
+    "weight": 0.923883,
+    "distance_km": 13.789,
+    "gaussian_weight": 0.756833,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1017",
+    "pearson": 0.841277,
+    "weight": 0.841277,
+    "distance_km": 31.599,
+    "gaussian_weight": 0.231528,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1018",
+    "pearson": 0.859525,
+    "weight": 0.859525,
+    "distance_km": 28.432,
+    "gaussian_weight": 0.305892,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1019",
+    "pearson": 0.832369,
+    "weight": 0.832369,
+    "distance_km": 34.065,
+    "gaussian_weight": 0.182625,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1020",
+    "pearson": 0.925058,
+    "weight": 0.925058,
+    "distance_km": 15.172,
+    "gaussian_weight": 0.713697,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1021",
+    "pearson": 0.907907,
+    "weight": 0.907907,
+    "distance_km": 13.446,
+    "gaussian_weight": 0.767263,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1022",
+    "pearson": 0.917869,
+    "weight": 0.917869,
+    "distance_km": 15.205,
+    "gaussian_weight": 0.712657,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1023",
+    "pearson": 0.883314,
+    "weight": 0.883314,
+    "distance_km": 34.926,
+    "gaussian_weight": 0.167402,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1024",
+    "pearson": 0.900121,
+    "weight": 0.900121,
+    "distance_km": 26.003,
+    "gaussian_weight": 0.371289,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1025",
+    "pearson": 0.896826,
+    "weight": 0.896826,
+    "distance_km": 16.446,
+    "gaussian_weight": 0.672807,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1006",
+    "target": "1030",
+    "pearson": 0.882647,
+    "weight": 0.882647,
+    "distance_km": 34.361,
+    "gaussian_weight": 0.177271,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1008",
+    "pearson": 0.938124,
+    "weight": 0.938124,
+    "distance_km": 5.169,
+    "gaussian_weight": 0.961608,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1009",
+    "pearson": 0.930114,
+    "weight": 0.930114,
+    "distance_km": 12.181,
+    "gaussian_weight": 0.804598,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1010",
+    "pearson": 0.932374,
+    "weight": 0.932374,
+    "distance_km": 11.776,
+    "gaussian_weight": 0.816127,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1011",
+    "pearson": 0.925466,
+    "weight": 0.925466,
+    "distance_km": 14.246,
+    "gaussian_weight": 0.742751,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1012",
+    "pearson": 0.949292,
+    "weight": 0.949292,
+    "distance_km": 7.356,
+    "gaussian_weight": 0.923775,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1013",
+    "pearson": 0.952871,
+    "weight": 0.952871,
+    "distance_km": 6.098,
+    "gaussian_weight": 0.946974,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1014",
+    "pearson": 0.924333,
+    "weight": 0.924333,
+    "distance_km": 8.746,
+    "gaussian_weight": 0.893973,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1015",
+    "pearson": 0.964211,
+    "weight": 0.964211,
+    "distance_km": 7.073,
+    "gaussian_weight": 0.929317,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1016",
+    "pearson": 0.923723,
+    "weight": 0.923723,
+    "distance_km": 16.603,
+    "gaussian_weight": 0.667688,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1017",
+    "pearson": 0.852193,
+    "weight": 0.852193,
+    "distance_km": 29.355,
+    "gaussian_weight": 0.282912,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1018",
+    "pearson": 0.879101,
+    "weight": 0.879101,
+    "distance_km": 22.833,
+    "gaussian_weight": 0.465848,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1019",
+    "pearson": 0.841787,
+    "weight": 0.841787,
+    "distance_km": 25.164,
+    "gaussian_weight": 0.395405,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1020",
+    "pearson": 0.944638,
+    "weight": 0.944638,
+    "distance_km": 10.66,
+    "gaussian_weight": 0.846619,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1021",
+    "pearson": 0.925502,
+    "weight": 0.925502,
+    "distance_km": 9.222,
+    "gaussian_weight": 0.882844,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1022",
+    "pearson": 0.954189,
+    "weight": 0.954189,
+    "distance_km": 7.843,
+    "gaussian_weight": 0.913819,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1023",
+    "pearson": 0.896392,
+    "weight": 0.896392,
+    "distance_km": 27.212,
+    "gaussian_weight": 0.337901,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1024",
+    "pearson": 0.86393,
+    "weight": 0.86393,
+    "distance_km": 29.753,
+    "gaussian_weight": 0.273316,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1025",
+    "pearson": 0.856957,
+    "weight": 0.856957,
+    "distance_km": 25.337,
+    "gaussian_weight": 0.390383,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1007",
+    "target": "1030",
+    "pearson": 0.863061,
+    "weight": 0.863061,
+    "distance_km": 37.62,
+    "gaussian_weight": 0.125718,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1009",
+    "pearson": 0.927977,
+    "weight": 0.927977,
+    "distance_km": 8.438,
+    "gaussian_weight": 0.90092,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1010",
+    "pearson": 0.935991,
+    "weight": 0.935991,
+    "distance_km": 9.471,
+    "gaussian_weight": 0.876833,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1011",
+    "pearson": 0.928207,
+    "weight": 0.928207,
+    "distance_km": 11.025,
+    "gaussian_weight": 0.836867,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1012",
+    "pearson": 0.931379,
+    "weight": 0.931379,
+    "distance_km": 9.711,
+    "gaussian_weight": 0.870947,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1013",
+    "pearson": 0.930749,
+    "weight": 0.930749,
+    "distance_km": 6.409,
+    "gaussian_weight": 0.941581,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1014",
+    "pearson": 0.923209,
+    "weight": 0.923209,
+    "distance_km": 11.6,
+    "gaussian_weight": 0.821055,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1015",
+    "pearson": 0.960237,
+    "weight": 0.960237,
+    "distance_km": 2.757,
+    "gaussian_weight": 0.988924,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1016",
+    "pearson": 0.93006,
+    "weight": 0.93006,
+    "distance_km": 11.704,
+    "gaussian_weight": 0.818128,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1017",
+    "pearson": 0.848745,
+    "weight": 0.848745,
+    "distance_km": 26.681,
+    "gaussian_weight": 0.352356,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1018",
+    "pearson": 0.864777,
+    "weight": 0.864777,
+    "distance_km": 22.249,
+    "gaussian_weight": 0.484152,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1019",
+    "pearson": 0.847712,
+    "weight": 0.847712,
+    "distance_km": 27.946,
+    "gaussian_weight": 0.318438,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1020",
+    "pearson": 0.924935,
+    "weight": 0.924935,
+    "distance_km": 9.011,
+    "gaussian_weight": 0.887822,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1021",
+    "pearson": 0.931448,
+    "weight": 0.931448,
+    "distance_km": 7.275,
+    "gaussian_weight": 0.925371,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1022",
+    "pearson": 0.931452,
+    "weight": 0.931452,
+    "distance_km": 8.852,
+    "gaussian_weight": 0.891522,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1023",
+    "pearson": 0.855227,
+    "weight": 0.855227,
+    "distance_km": 32.38,
+    "gaussian_weight": 0.215172,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1024",
+    "pearson": 0.837048,
+    "weight": 0.837048,
+    "distance_km": 30.942,
+    "gaussian_weight": 0.245895,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1025",
+    "pearson": 0.861973,
+    "weight": 0.861973,
+    "distance_km": 20.801,
+    "gaussian_weight": 0.530458,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1008",
+    "target": "1030",
+    "pearson": 0.83239,
+    "weight": 0.83239,
+    "distance_km": 39.146,
+    "gaussian_weight": 0.105878,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1010",
+    "pearson": 0.961897,
+    "weight": 0.961897,
+    "distance_km": 3.594,
+    "gaussian_weight": 0.981252,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1011",
+    "pearson": 0.967329,
+    "weight": 0.967329,
+    "distance_km": 2.818,
+    "gaussian_weight": 0.988434,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1012",
+    "pearson": 0.949363,
+    "weight": 0.949363,
+    "distance_km": 11.358,
+    "gaussian_weight": 0.827765,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1013",
+    "pearson": 0.955656,
+    "weight": 0.955656,
+    "distance_km": 7.933,
+    "gaussian_weight": 0.911908,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1014",
+    "pearson": 0.927252,
+    "weight": 0.927252,
+    "distance_km": 13.148,
+    "gaussian_weight": 0.776224,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1015",
+    "pearson": 0.953325,
+    "weight": 0.953325,
+    "distance_km": 5.684,
+    "gaussian_weight": 0.953769,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1016",
+    "pearson": 0.949141,
+    "weight": 0.949141,
+    "distance_km": 6.433,
+    "gaussian_weight": 0.941172,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1017",
+    "pearson": 0.891146,
+    "weight": 0.891146,
+    "distance_km": 18.388,
+    "gaussian_weight": 0.609289,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1018",
+    "pearson": 0.912927,
+    "weight": 0.912927,
+    "distance_km": 16.134,
+    "gaussian_weight": 0.682895,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1019",
+    "pearson": 0.877758,
+    "weight": 0.877758,
+    "distance_km": 26.65,
+    "gaussian_weight": 0.353221,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1020",
+    "pearson": 0.970877,
+    "weight": 0.970877,
+    "distance_km": 4.815,
+    "gaussian_weight": 0.966603,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1021",
+    "pearson": 0.946524,
+    "weight": 0.946524,
+    "distance_km": 4.375,
+    "gaussian_weight": 0.972345,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1022",
+    "pearson": 0.940751,
+    "weight": 0.940751,
+    "distance_km": 9.14,
+    "gaussian_weight": 0.884786,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1023",
+    "pearson": 0.882136,
+    "weight": 0.882136,
+    "distance_km": 37.837,
+    "gaussian_weight": 0.122736,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1024",
+    "pearson": 0.829179,
+    "weight": 0.829179,
+    "distance_km": 39.078,
+    "gaussian_weight": 0.106712,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1009",
+    "target": "1025",
+    "pearson": 0.837352,
+    "weight": 0.837352,
+    "distance_km": 21.976,
+    "gaussian_weight": 0.492803,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1011",
+    "pearson": 0.979218,
+    "weight": 0.979218,
+    "distance_km": 3.171,
+    "gaussian_weight": 0.98537,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1012",
+    "pearson": 0.947887,
+    "weight": 0.947887,
+    "distance_km": 8.849,
+    "gaussian_weight": 0.891593,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1013",
+    "pearson": 0.939838,
+    "weight": 0.939838,
+    "distance_km": 6.219,
+    "gaussian_weight": 0.944908,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1014",
+    "pearson": 0.942328,
+    "weight": 0.942328,
+    "distance_km": 10.404,
+    "gaussian_weight": 0.853338,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1015",
+    "pearson": 0.942397,
+    "weight": 0.942397,
+    "distance_km": 6.952,
+    "gaussian_weight": 0.931635,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1016",
+    "pearson": 0.953537,
+    "weight": 0.953537,
+    "distance_km": 9.91,
+    "gaussian_weight": 0.865984,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1017",
+    "pearson": 0.911812,
+    "weight": 0.911812,
+    "distance_km": 17.604,
+    "gaussian_weight": 0.635039,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1018",
+    "pearson": 0.931215,
+    "weight": 0.931215,
+    "distance_km": 13.209,
+    "gaussian_weight": 0.774406,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1019",
+    "pearson": 0.896103,
+    "weight": 0.896103,
+    "distance_km": 23.074,
+    "gaussian_weight": 0.45835,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1020",
+    "pearson": 0.966468,
+    "weight": 0.966468,
+    "distance_km": 1.616,
+    "gaussian_weight": 0.996182,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1021",
+    "pearson": 0.95896,
+    "weight": 0.95896,
+    "distance_km": 2.555,
+    "gaussian_weight": 0.990482,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1022",
+    "pearson": 0.946459,
+    "weight": 0.946459,
+    "distance_km": 6.528,
+    "gaussian_weight": 0.93947,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1023",
+    "pearson": 0.848217,
+    "weight": 0.848217,
+    "distance_km": 35.666,
+    "gaussian_weight": 0.155069,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1025",
+    "pearson": 0.819493,
+    "weight": 0.819493,
+    "distance_km": 25.48,
+    "gaussian_weight": 0.386235,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1010",
+    "target": "1034",
+    "pearson": 0.810845,
+    "weight": 0.810845,
+    "distance_km": 37.918,
+    "gaussian_weight": 0.121628,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1012",
+    "pearson": 0.939855,
+    "weight": 0.939855,
+    "distance_km": 12.012,
+    "gaussian_weight": 0.80942,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1013",
+    "pearson": 0.933199,
+    "weight": 0.933199,
+    "distance_km": 9.166,
+    "gaussian_weight": 0.884173,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1014",
+    "pearson": 0.934187,
+    "weight": 0.934187,
+    "distance_km": 13.573,
+    "gaussian_weight": 0.763427,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1015",
+    "pearson": 0.938138,
+    "weight": 0.938138,
+    "distance_km": 8.28,
+    "gaussian_weight": 0.904419,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1016",
+    "pearson": 0.959721,
+    "weight": 0.959721,
+    "distance_km": 7.619,
+    "gaussian_weight": 0.918452,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1017",
+    "pearson": 0.919511,
+    "weight": 0.919511,
+    "distance_km": 15.67,
+    "gaussian_weight": 0.697809,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1018",
+    "pearson": 0.937303,
+    "weight": 0.937303,
+    "distance_km": 13.661,
+    "gaussian_weight": 0.760743,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1019",
+    "pearson": 0.895377,
+    "weight": 0.895377,
+    "distance_km": 25.5,
+    "gaussian_weight": 0.385663,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1020",
+    "pearson": 0.963885,
+    "weight": 0.963885,
+    "distance_km": 4.787,
+    "gaussian_weight": 0.966979,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1021",
+    "pearson": 0.953714,
+    "weight": 0.953714,
+    "distance_km": 5.347,
+    "gaussian_weight": 0.958978,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1022",
+    "pearson": 0.938455,
+    "weight": 0.938455,
+    "distance_km": 9.692,
+    "gaussian_weight": 0.871402,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1023",
+    "pearson": 0.854267,
+    "weight": 0.854267,
+    "distance_km": 38.819,
+    "gaussian_weight": 0.109914,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1025",
+    "pearson": 0.822095,
+    "weight": 0.822095,
+    "distance_km": 24.084,
+    "gaussian_weight": 0.427439,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1034",
+    "pearson": 0.81133,
+    "weight": 0.81133,
+    "distance_km": 38.922,
+    "gaussian_weight": 0.108636,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1011",
+    "target": "1035",
+    "pearson": 0.776522,
+    "weight": 0.776522,
+    "distance_km": 37.805,
+    "gaussian_weight": 0.12317,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1013",
+    "pearson": 0.952186,
+    "weight": 0.952186,
+    "distance_km": 3.84,
+    "gaussian_weight": 0.978629,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1014",
+    "pearson": 0.967959,
+    "weight": 0.967959,
+    "distance_km": 1.98,
+    "gaussian_weight": 0.994273,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1015",
+    "pearson": 0.945208,
+    "weight": 0.945208,
+    "distance_km": 9.395,
+    "gaussian_weight": 0.878684,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1016",
+    "pearson": 0.927702,
+    "weight": 0.927702,
+    "distance_km": 17.527,
+    "gaussian_weight": 0.637537,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1017",
+    "pearson": 0.874,
+    "weight": 0.874,
+    "distance_km": 24.791,
+    "gaussian_weight": 0.40635,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1018",
+    "pearson": 0.904244,
+    "weight": 0.904244,
+    "distance_km": 16.33,
+    "gaussian_weight": 0.676565,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1019",
+    "pearson": 0.890109,
+    "weight": 0.890109,
+    "distance_km": 18.284,
+    "gaussian_weight": 0.612726,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1020",
+    "pearson": 0.9554,
+    "weight": 0.9554,
+    "distance_km": 7.241,
+    "gaussian_weight": 0.926058,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1021",
+    "pearson": 0.936731,
+    "weight": 0.936731,
+    "distance_km": 6.993,
+    "gaussian_weight": 0.930843,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1022",
+    "pearson": 0.972118,
+    "weight": 0.972118,
+    "distance_km": 2.322,
+    "gaussian_weight": 0.992133,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1023",
+    "pearson": 0.876975,
+    "weight": 0.876975,
+    "distance_km": 26.82,
+    "gaussian_weight": 0.348529,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1024",
+    "pearson": 0.830322,
+    "weight": 0.830322,
+    "distance_km": 36.796,
+    "gaussian_weight": 0.137526,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1025",
+    "pearson": 0.822248,
+    "weight": 0.822248,
+    "distance_km": 30.245,
+    "gaussian_weight": 0.261746,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1012",
+    "target": "1034",
+    "pearson": 0.787356,
+    "weight": 0.787356,
+    "distance_km": 37.202,
+    "gaussian_weight": 0.131609,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1014",
+    "pearson": 0.930162,
+    "weight": 0.930162,
+    "distance_km": 5.814,
+    "gaussian_weight": 0.951675,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1015",
+    "pearson": 0.962495,
+    "weight": 0.962495,
+    "distance_km": 5.615,
+    "gaussian_weight": 0.954849,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1016",
+    "pearson": 0.921993,
+    "weight": 0.921993,
+    "distance_km": 13.848,
+    "gaussian_weight": 0.755043,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1017",
+    "pearson": 0.849635,
+    "weight": 0.849635,
+    "distance_km": 23.496,
+    "gaussian_weight": 0.445348,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1018",
+    "pearson": 0.878365,
+    "weight": 0.878365,
+    "distance_km": 16.821,
+    "gaussian_weight": 0.660621,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1019",
+    "pearson": 0.855047,
+    "weight": 0.855047,
+    "distance_km": 21.653,
+    "gaussian_weight": 0.50308,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1020",
+    "pearson": 0.969889,
+    "weight": 0.969889,
+    "distance_km": 4.828,
+    "gaussian_weight": 0.966427,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1021",
+    "pearson": 0.933043,
+    "weight": 0.933043,
+    "distance_km": 3.821,
+    "gaussian_weight": 0.978829,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1022",
+    "pearson": 0.948224,
+    "weight": 0.948224,
+    "distance_km": 2.446,
+    "gaussian_weight": 0.991273,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1023",
+    "pearson": 0.898407,
+    "weight": 0.898407,
+    "distance_km": 29.906,
+    "gaussian_weight": 0.269679,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1024",
+    "pearson": 0.848661,
+    "weight": 0.848661,
+    "distance_km": 35.726,
+    "gaussian_weight": 0.154088,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1025",
+    "pearson": 0.846667,
+    "weight": 0.846667,
+    "distance_km": 26.521,
+    "gaussian_weight": 0.356784,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1013",
+    "target": "1034",
+    "pearson": 0.750245,
+    "weight": 0.750245,
+    "distance_km": 39.515,
+    "gaussian_weight": 0.101475,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1014",
+    "target": "1015",
+    "pearson": 0.923051,
+    "weight": 0.923051,
+    "distance_km": 11.373,
+    "gaussian_weight": 0.82735,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1014",
+    "target": "1016",
+    "pearson": 0.923867,
+    "weight": 0.923867,
+    "distance_km": 19.4,
+    "gaussian_weight": 0.576089,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1014",
+    "target": "1017",
+    "pearson": 0.883207,
+    "weight": 0.883207,
+    "distance_km": 25.495,
+    "gaussian_weight": 0.385793,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1014",
+    "target": "1018",
+    "pearson": 0.901008,
+    "weight": 0.901008,
+    "distance_km": 16.245,
+    "gaussian_weight": 0.679305,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1014",
+    "target": "1019",
+    "pearson": 0.907144,
+    "weight": 0.907144,
+    "distance_km": 16.53,
+    "gaussian_weight": 0.670058,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1014",
+    "target": "1020",
+    "pearson": 0.932962,
+    "weight": 0.932962,
+    "distance_km": 8.79,
+    "gaussian_weight": 0.892961,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1014",
+    "target": "1021",
+    "pearson": 0.937819,
+    "weight": 0.937819,
+    "distance_km": 8.774,
+    "gaussian_weight": 0.893324,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1014",
+    "target": "1022",
+    "pearson": 0.959939,
+    "weight": 0.959939,
+    "distance_km": 4.008,
+    "gaussian_weight": 0.976733,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1014",
+    "target": "1023",
+    "pearson": 0.859761,
+    "weight": 0.859761,
+    "distance_km": 25.437,
+    "gaussian_weight": 0.387489,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1014",
+    "target": "1024",
+    "pearson": 0.814541,
+    "weight": 0.814541,
+    "distance_km": 37.654,
+    "gaussian_weight": 0.125236,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1014",
+    "target": "1025",
+    "pearson": 0.80434,
+    "weight": 0.80434,
+    "distance_km": 32.207,
+    "gaussian_weight": 0.21873,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1014",
+    "target": "1034",
+    "pearson": 0.814473,
+    "weight": 0.814473,
+    "distance_km": 35.963,
+    "gaussian_weight": 0.150307,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1015",
+    "target": "1016",
+    "pearson": 0.937614,
+    "weight": 0.937614,
+    "distance_km": 9.553,
+    "gaussian_weight": 0.874837,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1015",
+    "target": "1017",
+    "pearson": 0.853913,
+    "weight": 0.853913,
+    "distance_km": 23.947,
+    "gaussian_weight": 0.431598,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1015",
+    "target": "1018",
+    "pearson": 0.879964,
+    "weight": 0.879964,
+    "distance_km": 20.01,
+    "gaussian_weight": 0.55617,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1015",
+    "target": "1019",
+    "pearson": 0.845729,
+    "weight": 0.845729,
+    "distance_km": 27.155,
+    "gaussian_weight": 0.33944,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1015",
+    "target": "1020",
+    "pearson": 0.956821,
+    "weight": 0.956821,
+    "distance_km": 6.763,
+    "gaussian_weight": 0.935171,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1015",
+    "target": "1021",
+    "pearson": 0.942487,
+    "weight": 0.942487,
+    "distance_km": 5.056,
+    "gaussian_weight": 0.963237,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1015",
+    "target": "1022",
+    "pearson": 0.946321,
+    "weight": 0.946321,
+    "distance_km": 7.935,
+    "gaussian_weight": 0.91187,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1015",
+    "target": "1023",
+    "pearson": 0.886702,
+    "weight": 0.886702,
+    "distance_km": 33.958,
+    "gaussian_weight": 0.184586,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1015",
+    "target": "1024",
+    "pearson": 0.867818,
+    "weight": 0.867818,
+    "distance_km": 33.607,
+    "gaussian_weight": 0.1911,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1015",
+    "target": "1025",
+    "pearson": 0.863545,
+    "weight": 0.863545,
+    "distance_km": 20.91,
+    "gaussian_weight": 0.526953,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1016",
+    "target": "1017",
+    "pearson": 0.912349,
+    "weight": 0.912349,
+    "distance_km": 19.468,
+    "gaussian_weight": 0.573877,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1016",
+    "target": "1018",
+    "pearson": 0.913233,
+    "weight": 0.913233,
+    "distance_km": 20.865,
+    "gaussian_weight": 0.528382,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1016",
+    "target": "1019",
+    "pearson": 0.877767,
+    "weight": 0.877767,
+    "distance_km": 32.951,
+    "gaussian_weight": 0.203739,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1016",
+    "target": "1020",
+    "pearson": 0.938128,
+    "weight": 0.938128,
+    "distance_km": 11.242,
+    "gaussian_weight": 0.830959,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1016",
+    "target": "1021",
+    "pearson": 0.936226,
+    "weight": 0.936226,
+    "distance_km": 10.687,
+    "gaussian_weight": 0.845905,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1016",
+    "target": "1022",
+    "pearson": 0.928941,
+    "weight": 0.928941,
+    "distance_km": 15.413,
+    "gaussian_weight": 0.706042,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1016",
+    "target": "1024",
+    "pearson": 0.821955,
+    "weight": 0.821955,
+    "distance_km": 39.532,
+    "gaussian_weight": 0.101274,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1016",
+    "target": "1025",
+    "pearson": 0.850268,
+    "weight": 0.850268,
+    "distance_km": 16.877,
+    "gaussian_weight": 0.658769,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1016",
+    "target": "1035",
+    "pearson": 0.775843,
+    "weight": 0.775843,
+    "distance_km": 38.234,
+    "gaussian_weight": 0.117418,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1016",
+    "target": "1036",
+    "pearson": 0.797139,
+    "weight": 0.797139,
+    "distance_km": 39.538,
+    "gaussian_weight": 0.101203,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1017",
+    "target": "1018",
+    "pearson": 0.948569,
+    "weight": 0.948569,
+    "distance_km": 12.057,
+    "gaussian_weight": 0.808139,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1017",
+    "target": "1019",
+    "pearson": 0.895804,
+    "weight": 0.895804,
+    "distance_km": 28.827,
+    "gaussian_weight": 0.295918,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1017",
+    "target": "1020",
+    "pearson": 0.89214,
+    "weight": 0.89214,
+    "distance_km": 18.719,
+    "gaussian_weight": 0.598425,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1017",
+    "target": "1021",
+    "pearson": 0.873303,
+    "weight": 0.873303,
+    "distance_km": 20.146,
+    "gaussian_weight": 0.551727,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1017",
+    "target": "1022",
+    "pearson": 0.867715,
+    "weight": 0.867715,
+    "distance_km": 22.779,
+    "gaussian_weight": 0.467514,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1017",
+    "target": "1025",
+    "pearson": 0.733643,
+    "weight": 0.733643,
+    "distance_km": 35.344,
+    "gaussian_weight": 0.160346,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1017",
+    "target": "1034",
+    "pearson": 0.876917,
+    "weight": 0.876917,
+    "distance_km": 32.241,
+    "gaussian_weight": 0.218036,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1017",
+    "target": "1035",
+    "pearson": 0.858178,
+    "weight": 0.858178,
+    "distance_km": 23.835,
+    "gaussian_weight": 0.434975,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1017",
+    "target": "1036",
+    "pearson": 0.830179,
+    "weight": 0.830179,
+    "distance_km": 38.015,
+    "gaussian_weight": 0.120322,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1018",
+    "target": "1019",
+    "pearson": 0.916054,
+    "weight": 0.916054,
+    "distance_km": 16.836,
+    "gaussian_weight": 0.660123,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1018",
+    "target": "1020",
+    "pearson": 0.921223,
+    "weight": 0.921223,
+    "distance_km": 13.268,
+    "gaussian_weight": 0.772629,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1018",
+    "target": "1021",
+    "pearson": 0.897912,
+    "weight": 0.897912,
+    "distance_km": 15.003,
+    "gaussian_weight": 0.719054,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1018",
+    "target": "1022",
+    "pearson": 0.889524,
+    "weight": 0.889524,
+    "distance_km": 15.055,
+    "gaussian_weight": 0.717397,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1018",
+    "target": "1023",
+    "pearson": 0.801676,
+    "weight": 0.801676,
+    "distance_km": 39.085,
+    "gaussian_weight": 0.106631,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1018",
+    "target": "1025",
+    "pearson": 0.751761,
+    "weight": 0.751761,
+    "distance_km": 37.662,
+    "gaussian_weight": 0.125128,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1018",
+    "target": "1034",
+    "pearson": 0.876999,
+    "weight": 0.876999,
+    "distance_km": 25.369,
+    "gaussian_weight": 0.389443,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1018",
+    "target": "1035",
+    "pearson": 0.837742,
+    "weight": 0.837742,
+    "distance_km": 35.264,
+    "gaussian_weight": 0.161678,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1019",
+    "target": "1020",
+    "pearson": 0.882831,
+    "weight": 0.882831,
+    "distance_km": 21.912,
+    "gaussian_weight": 0.494837,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1019",
+    "target": "1021",
+    "pearson": 0.861756,
+    "weight": 0.861756,
+    "distance_km": 22.983,
+    "gaussian_weight": 0.461176,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1019",
+    "target": "1022",
+    "pearson": 0.885544,
+    "weight": 0.885544,
+    "distance_km": 19.242,
+    "gaussian_weight": 0.581268,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1019",
+    "target": "1023",
+    "pearson": 0.816197,
+    "weight": 0.816197,
+    "distance_km": 26.894,
+    "gaussian_weight": 0.346525,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1019",
+    "target": "1034",
+    "pearson": 0.882495,
+    "weight": 0.882495,
+    "distance_km": 21.775,
+    "gaussian_weight": 0.499187,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1020",
+    "target": "1021",
+    "pearson": 0.949861,
+    "weight": 0.949861,
+    "distance_km": 1.738,
+    "gaussian_weight": 0.995585,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1020",
+    "target": "1022",
+    "pearson": 0.944653,
+    "weight": 0.944653,
+    "distance_km": 4.919,
+    "gaussian_weight": 0.965166,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1020",
+    "target": "1023",
+    "pearson": 0.884246,
+    "weight": 0.884246,
+    "distance_km": 34.06,
+    "gaussian_weight": 0.182707,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1020",
+    "target": "1025",
+    "pearson": 0.824067,
+    "weight": 0.824067,
+    "distance_km": 26.309,
+    "gaussian_weight": 0.362681,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1020",
+    "target": "1034",
+    "pearson": 0.78881,
+    "weight": 0.78881,
+    "distance_km": 37.501,
+    "gaussian_weight": 0.127371,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1021",
+    "target": "1022",
+    "pearson": 0.938024,
+    "weight": 0.938024,
+    "distance_km": 4.766,
+    "gaussian_weight": 0.967265,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1021",
+    "target": "1023",
+    "pearson": 0.840827,
+    "weight": 0.840827,
+    "distance_km": 33.628,
+    "gaussian_weight": 0.19071,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1021",
+    "target": "1024",
+    "pearson": 0.811216,
+    "weight": 0.811216,
+    "distance_km": 38.044,
+    "gaussian_weight": 0.119933,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1021",
+    "target": "1025",
+    "pearson": 0.816938,
+    "weight": 0.816938,
+    "distance_km": 25.036,
+    "gaussian_weight": 0.399142,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1021",
+    "target": "1034",
+    "pearson": 0.774396,
+    "weight": 0.774396,
+    "distance_km": 39.107,
+    "gaussian_weight": 0.106361,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1022",
+    "target": "1023",
+    "pearson": 0.880462,
+    "weight": 0.880462,
+    "distance_km": 29.141,
+    "gaussian_weight": 0.288127,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1022",
+    "target": "1024",
+    "pearson": 0.837938,
+    "weight": 0.837938,
+    "distance_km": 37.593,
+    "gaussian_weight": 0.126082,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1022",
+    "target": "1025",
+    "pearson": 0.827547,
+    "weight": 0.827547,
+    "distance_km": 28.829,
+    "gaussian_weight": 0.295879,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1022",
+    "target": "1034",
+    "pearson": 0.778188,
+    "weight": 0.778188,
+    "distance_km": 37.163,
+    "gaussian_weight": 0.132167,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1023",
+    "target": "1024",
+    "pearson": 0.841063,
+    "weight": 0.841063,
+    "distance_km": 37.471,
+    "gaussian_weight": 0.127785,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1023",
+    "target": "1026",
+    "pearson": 0.858381,
+    "weight": 0.858381,
+    "distance_km": 37.872,
+    "gaussian_weight": 0.122257,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1023",
+    "target": "1027",
+    "pearson": 0.922117,
+    "weight": 0.922117,
+    "distance_km": 22.467,
+    "gaussian_weight": 0.477279,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1023",
+    "target": "1028",
+    "pearson": 0.908468,
+    "weight": 0.908468,
+    "distance_km": 30.915,
+    "gaussian_weight": 0.246487,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1024",
+    "target": "1025",
+    "pearson": 0.874938,
+    "weight": 0.874938,
+    "distance_km": 32.874,
+    "gaussian_weight": 0.205256,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1024",
+    "target": "1027",
+    "pearson": 0.875715,
+    "weight": 0.875715,
+    "distance_km": 35.951,
+    "gaussian_weight": 0.150489,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1024",
+    "target": "1029",
+    "pearson": 0.849125,
+    "weight": 0.849125,
+    "distance_km": 34.16,
+    "gaussian_weight": 0.180901,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1024",
+    "target": "1030",
+    "pearson": 0.942916,
+    "weight": 0.942916,
+    "distance_km": 8.383,
+    "gaussian_weight": 0.902156,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1024",
+    "target": "1031",
+    "pearson": 0.807515,
+    "weight": 0.807515,
+    "distance_km": 26.308,
+    "gaussian_weight": 0.362705,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1026",
+    "target": "1028",
+    "pearson": 0.853186,
+    "weight": 0.853186,
+    "distance_km": 33.975,
+    "gaussian_weight": 0.184258,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1026",
+    "target": "1033",
+    "pearson": 0.865455,
+    "weight": 0.865455,
+    "distance_km": 5.075,
+    "gaussian_weight": 0.962966,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1027",
+    "target": "1028",
+    "pearson": 0.927209,
+    "weight": 0.927209,
+    "distance_km": 17.907,
+    "gaussian_weight": 0.625082,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1027",
+    "target": "1030",
+    "pearson": 0.880302,
+    "weight": 0.880302,
+    "distance_km": 34.826,
+    "gaussian_weight": 0.169114,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1027",
+    "target": "1032",
+    "pearson": 0.922702,
+    "weight": 0.922702,
+    "distance_km": 30.588,
+    "gaussian_weight": 0.253874,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1028",
+    "target": "1032",
+    "pearson": 0.933728,
+    "weight": 0.933728,
+    "distance_km": 15.826,
+    "gaussian_weight": 0.692808,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1028",
+    "target": "1033",
+    "pearson": 0.803115,
+    "weight": 0.803115,
+    "distance_km": 38.717,
+    "gaussian_weight": 0.111192,
+    "rel_type": "CORRELATED"
+  },
+  {
+    "source": "1029",
+    "target": "1030",
+    "pearson": 0.869672,
+    "weight": 0.869672,
+    "distance_km": 27.602,
+    "gaussian_weight": 0.327467,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1029",
+    "target": "1031",
+    "pearson": 0.868254,
+    "weight": 0.868254,
+    "distance_km": 9.879,
+    "gaussian_weight": 0.866763,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1030",
+    "target": "1031",
+    "pearson": 0.864302,
+    "weight": 0.864302,
+    "distance_km": 21.276,
+    "gaussian_weight": 0.515162,
+    "rel_type": "STRONGLY_CORRELATED"
+  },
+  {
+    "source": "1035",
+    "target": "1036",
+    "pearson": 0.832242,
+    "weight": 0.832242,
+    "distance_km": 26.573,
+    "gaussian_weight": 0.355347,
+    "rel_type": "CORRELATED"
+  }
+]
